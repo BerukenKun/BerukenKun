@@ -2,8 +2,8 @@
 
 <h3>Projects</h3>
 
-- League of Legends Login [https://berukenkun.github.io/LoginLol/](https://berukenkun.github.io/LoginLol/)
-- Pokedex (with API) [https://berukenkun.github.io/Pokedex/](https://berukenkun.github.io/Pokedex/)
+- League of Legends Login - [https://berukenkun.github.io/LoginLol/](https://berukenkun.github.io/LoginLol/)
+- Pokedex (with API) - [https://berukenkun.github.io/Pokedex/](https://berukenkun.github.io/Pokedex/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
