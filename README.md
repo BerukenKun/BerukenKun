@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">A Technology Student</h3>
+<h3 align="center">I'm A Technology Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
