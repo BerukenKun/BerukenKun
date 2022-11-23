@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h2>Projects</h2>
+<p>Projects</p>
 
 - League of Legends Login [https://berukenkun.github.io/LoginLol/](https://berukenkun.github.io/LoginLol/)
 - Pokedex (with API) [https://berukenkun.github.io/Pokedex/](https://berukenkun.github.io/Pokedex/)
