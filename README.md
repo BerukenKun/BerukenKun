@@ -5,6 +5,7 @@
 - League of Legends Login - [https://berukenkun.github.io/LoginLol/](https://berukenkun.github.io/LoginLol/)
 - Pokedex (API) - [https://berukenkun.github.io/Pokedex/](https://berukenkun.github.io/Pokedex/)
 - Cordel Project - [https://berukenkun.github.io/project-cordel/](https://berukenkun.github.io/project-cordel/)
+- Social Project - [https://berukenkun.github.io/project-social/](https://berukenkun.github.io/project-social/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
