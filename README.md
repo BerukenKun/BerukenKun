@@ -5,6 +5,9 @@
 - League of Legends Login - [https://berukenkun.github.io/LoginLol/](https://berukenkun.github.io/LoginLol/)
 <!-- - Pokedex (API) - [https://berukenkun.github.io/Pokedex/](https://berukenkun.github.io/Pokedex/) -->
 - Social Project - [https://berukenkun.github.io/project-social/](https://berukenkun.github.io/project-social/)
+- Dicee Challenge - [https://berukenkun.github.io/DiceeChallenge/dicee.html](https://berukenkun.github.io/DiceeChallenge/)
+- Drum Kit - [https://berukenkun.github.io/DrumKit/](https://berukenkun.github.io/DrumKit/)
+- Tin Dog - [https://berukenkun.github.io/TinDog/](https://berukenkun.github.io/TinDog/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
