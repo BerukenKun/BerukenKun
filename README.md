@@ -12,55 +12,15 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<table>
-  <tr>
-    <td valign="top" width="10%" style="border-right: 1px solid #30363d;">
+## 🛠️ Tech Stack
 
-### 💻 Languages
-
-- ☕ Java
-- 🐍 Python
-- 🟨 JavaScript
-- 🟣 C#
-
-    </td>
-
-    <td valign="top" width="10%" style="border-right: 1px solid #30363d;">
-
-### ⚙️ Backend
-
-- 🌱 Spring Boot
-- 🟢 Node.js
-- ⚡ Express
-- 🔗 REST APIs
-- 🗄️ JPA / Hibernate
-
-    </td>
-
-    <td valign="top" width="30%" style="border-right: 1px solid #30363d;">
-
-### 🗄️ Databases
-
-- 🐬 MySQL
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🔴 H2
-
-    </td>
-
-    <td valign="top" width="40%">
-
-### 🔧 Tools
-
-- 🐙 Git / GitHub
-- 🐳 Docker
-- 📦 Maven
-- 💡 IntelliJ IDEA
-- 📝 Postman
-
-    </td>
-  </tr>
-</table>
+| 💻 Languages | ⚙️ Backend | 🗄️ Databases | 🔧 Tools |
+|:---|:---|:---|:---|
+| ☕ Java | 🌱 Spring Boot | 🐬 MySQL | 🐙 Git / GitHub |
+| 🐍 Python | 🟢 Node.js | 🐘 PostgreSQL | 🐳 Docker |
+| 🟨 JavaScript | ⚡ Express | 🍃 MongoDB | 📦 Maven |
+| 🟣 C# | 🔗 REST APIs | 🔴 H2 | 💡 IntelliJ IDEA |
+| | 🗄️ JPA / Hibernate | | 📝 Postman |
 
 <br>
 
