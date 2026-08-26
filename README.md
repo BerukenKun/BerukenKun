@@ -68,7 +68,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="40%" valign="top">
 
 ### 👨‍🎓 Student Management API
 
