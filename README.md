@@ -12,15 +12,65 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-## 🛠️ Tech Stack
+<table>
+  <tr>
 
-| 💻 Languages | ⚙️ Backend | 🗄️ Databases | 🔧 Tools |
-|:---|:---|:---|:---|
-| ☕ Java | 🌱 Spring Boot | 🐬 MySQL | 🐙 Git / GitHub |
-| 🐍 Python | 🟢 Node.js | 🐘 PostgreSQL | 🐳 Docker |
-| 🟨 JavaScript | ⚡ Express | 🍃 MongoDB | 📦 Maven |
-| 🟣 C# | 🔗 REST APIs | 🔴 H2 | 💡 IntelliJ IDEA |
-| | 🗄️ JPA / Hibernate | | 📝 Postman |
+    <td valign="top" width="180">
+
+      <h3>💻 Languages</h3>
+
+      <ul>
+        <li>☕ Java</li>
+        <li>🐍 Python</li>
+        <li>🟨 JavaScript</li>
+        <li>🟣 C#</li>
+      </ul>
+
+    </td>
+
+    <td valign="top" width="180">
+
+      <h3>⚙️ Backend</h3>
+
+      <ul>
+        <li>🌱 Spring Boot</li>
+        <li>🟢 Node.js</li>
+        <li>⚡ Express</li>
+        <li>🔗 REST APIs</li>
+        <li>🗄️ JPA / Hibernate</li>
+      </ul>
+
+    </td>
+
+    <td valign="top" width="180">
+
+      <h3>🗄️ Databases</h3>
+
+      <ul>
+        <li>🐬 MySQL</li>
+        <li>🐘 PostgreSQL</li>
+        <li>🍃 MongoDB</li>
+        <li>🔴 H2</li>
+      </ul>
+
+    </td>
+
+    <td valign="top" width="180">
+
+      <h3>🔧 Tools</h3>
+
+      <ul>
+        <li>🐙 Git / GitHub</li>
+        <li>🐳 Docker</li>
+        <li>📦 Maven</li>
+        <li>💡 IntelliJ IDEA</li>
+        <li>📝 Postman</li>
+      </ul>
+
+    </td>
+
+  </tr>
+</table>
 
 <br>
 
