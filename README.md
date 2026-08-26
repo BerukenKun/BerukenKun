@@ -14,24 +14,17 @@
 
 <table>
   <tr>
-
     <td valign="top" width="180">
-
       <h3>💻 Languages</h3>
-
       <ul>
         <li>☕ Java</li>
         <li>🐍 Python</li>
         <li>🟨 JavaScript</li>
         <li>🟣 C#</li>
       </ul>
-
     </td>
-
     <td valign="top" width="180">
-
       <h3>⚙️ Backend</h3>
-
       <ul>
         <li>🌱 Spring Boot</li>
         <li>🟢 Node.js</li>
@@ -39,26 +32,18 @@
         <li>🔗 REST APIs</li>
         <li>🗄️ JPA / Hibernate</li>
       </ul>
-
     </td>
-
     <td valign="top" width="180">
-
       <h3>🗄️ Databases</h3>
-
       <ul>
         <li>🐬 MySQL</li>
         <li>🐘 PostgreSQL</li>
         <li>🍃 MongoDB</li>
         <li>🔴 H2</li>
       </ul>
-
     </td>
-
     <td valign="top" width="180">
-
       <h3>🔧 Tools</h3>
-
       <ul>
         <li>🐙 Git / GitHub</li>
         <li>🐳 Docker</li>
@@ -66,9 +51,7 @@
         <li>💡 IntelliJ IDEA</li>
         <li>📝 Postman</li>
       </ul>
-
     </td>
-
   </tr>
 </table>
 
