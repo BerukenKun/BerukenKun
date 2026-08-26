@@ -12,9 +12,9 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<table width="150%">
+<table>
   <tr>
-    <td valign="top" width="30%" style="border-right: 1px solid #30363d;">
+    <td valign="top" width="10%" style="border-right: 1px solid #30363d;">
 
 ### 💻 Languages
 
@@ -25,7 +25,7 @@
 
     </td>
 
-    <td valign="top" width="30%" style="border-right: 1px solid #30363d;">
+    <td valign="top" width="10%" style="border-right: 1px solid #30363d;">
 
 ### ⚙️ Backend
 
