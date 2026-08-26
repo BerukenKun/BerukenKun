@@ -17,10 +17,10 @@
     <td valign="top" width="220">
       <h3>💻 Languages</h3>
       <ul>
-        <li><font size="4">☕ Java</font></li>
-        <li><font size="4">🐍 Python</font></li>
-        <li><font size="10">🟨 JavaScript</font></li>
-        <li><font size="10">🟣 C#</font></li>
+        <li><h4>☕ Java</h4></li>
+        <li><h4>🐍 Python</h4></li>
+        <li><h4>🟨 JavaScript</h4></li>
+        <li><h4>🟣 C#</h4></li>
       </ul>
     </td>
     <td valign="top" width="220">
