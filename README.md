@@ -10,8 +10,8 @@
 
 <br>
 
-<h2>🛠️ Tech Stack</h2><br>
-
+<h2>🛠️ Tech Stack</h2>
+<br>
 <table>
   <tr>
     <td valign="top" width="220">
