@@ -33,9 +33,9 @@
     <td valign="top" width="220">
       <h3>🗄️ Databases</h3>
       <ul>
-        <li><h3>🐬 MySQL</h3></li>
-        <li><h3>🐘 PostgreSQL</h3></li>
-        <li><h3>🍃 MongoDB</h3></li>
+        <li><h4>🐬 MySQL</h4></li>
+        <li><h4>🐘 PostgreSQL</h4></li>
+        <li><h4>🍃 MongoDB</h4></li>
       </ul>
     </td>
     <td valign="top" width="220">
