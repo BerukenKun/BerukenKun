@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="190">
+    <td valign="top" width="200">
       <h3>💻 Languages</h3>
       <ul>
         <li>☕ Java</li>
@@ -23,7 +23,7 @@
         <li>🟣 C#</li>
       </ul>
     </td>
-    <td valign="top" width="190">
+    <td valign="top" width="200">
       <h3>⚙️ Backend</h3>
       <ul>
         <li>🌱 Spring Boot</li>
@@ -33,7 +33,7 @@
         <li>🗄️ JPA / Hibernate</li>
       </ul>
     </td>
-    <td valign="top" width="190">
+    <td valign="top" width="200">
       <h3>🗄️ Databases</h3>
       <ul>
         <li>🐬 MySQL</li>
@@ -42,7 +42,7 @@
         <li>🔴 H2</li>
       </ul>
     </td>
-    <td valign="top" width="190">
+    <td valign="top" width="200">
       <h3>🔧 Tools</h3>
       <ul>
         <li>🐙 Git / GitHub</li>
