@@ -1,46 +1,190 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋, I'm Gabriel Peixoto</h1>
 
-<h3>Projects</h3>
-
-<!-- - Pokedex (API) - [https://berukenkun.github.io/Pokedex/](https://berukenkun.github.io/Pokedex/) -->
-<!-- - League of Legends Login - [https://berukenkun.github.io/LoginLol/](https://berukenkun.github.io/LoginLol/) -->
-<!-- - Social Project - [https://berukenkun.github.io/project-social/](https://berukenkun.github.io/project-social/) -->
-- Dicee Challenge - [https://berukenkun.github.io/DiceeChallenge/](https://berukenkun.github.io/DiceeChallenge/dicee.html)
-- Drum Kit - [https://berukenkun.github.io/DrumKit/](https://berukenkun.github.io/DrumKit/)
-- Tin Dog - [https://berukenkun.github.io/TinDog/](https://berukenkun.github.io/TinDog/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/berukenkun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berukenkun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel-peixoto-8979471b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-peixoto-8979471b7/" height="30" width="40" /></a>
-<a href="https://discord.gg/#5333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5333" height="30" width="40" /></a>
+<p align="center">
+  <strong>Aspiring Backend Developer</strong> focused on Java and Spring Boot.
 </p>
 
+<p align="center">
+  Currently learning and building REST APIs with Java, Spring Boot, JPA and SQL databases.
+</p>
 
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>🛠️ Tech Stack</h2>
 
-<h2>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
-<!--   <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40" /></a> -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/> </a>
-  <br><br>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-  <br><br>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-</h2>
+<table>
+  <tr>
+    <td valign="top" width="25%" style="border-right: 1px solid #30363d;">
 
+### 💻 Languages
 
+- ☕ Java
+- 🐍 Python
+- 🟨 JavaScript
+- 🟣 C#
 
+    </td>
 
-<!---
-BerukenKun/BerukenKun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <td valign="top" width="25%" style="border-right: 1px solid #30363d;">
+
+### ⚙️ Backend
+
+- 🌱 Spring Boot
+- 🟢 Node.js
+- ⚡ Express
+- 🔗 REST APIs
+- 🗄️ JPA / Hibernate
+
+    </td>
+
+    <td valign="top" width="25%" style="border-right: 1px solid #30363d;">
+
+### 🗄️ Databases
+
+- 🐬 MySQL
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🔴 H2
+
+    </td>
+
+    <td valign="top" width="25%">
+
+### 🔧 Tools
+
+- 🐙 Git / GitHub
+- 🐳 Docker
+- 📦 Maven
+- 💡 IntelliJ IDEA
+- 📝 Postman
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### 👨‍🎓 Student Management API
+
+REST API for managing students, courses and teachers.
+
+**Technologies:**
+
+`Java` `Spring Boot` `JPA` `MySQL`
+
+<a href="LINK_DO_REPOSITORIO">
+  View Repository →
+</a>
+
+    </td>
+
+    <td width="33%" valign="top">
+
+### 🏋️ Training Management API
+
+REST API for creating and managing workout routines.
+
+**Technologies:**
+
+`Java` `Spring Boot` `JPA` `PostgreSQL`
+
+<a href="LINK_DO_REPOSITORIO">
+  View Repository →
+</a>
+
+    </td>
+
+    <td width="33%" valign="top">
+
+### 💰 Financial API
+
+REST API for managing financial transactions and categories.
+
+**Technologies:**
+
+`Java` `Spring Boot` `MySQL`
+
+<a href="LINK_DO_REPOSITORIO">
+  View Repository →
+</a>
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2>📚 Other Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### 🎲 Dicee Challenge
+
+A simple dice game built with HTML, CSS and JavaScript.
+
+<a href="LINK_DO_REPOSITORIO">
+  View Repository →
+</a>
+
+    </td>
+
+    <td width="33%" valign="top">
+
+### 🥁 Drum Kit
+
+An interactive drum kit built with JavaScript.
+
+<a href="LINK_DO_REPOSITORIO">
+  View Repository →
+</a>
+
+    </td>
+
+    <td width="33%" valign="top">
+
+### 🐶 Tin Dog
+
+A responsive landing page built with HTML and CSS.
+
+<a href="LINK_DO_REPOSITORIO">
+  View Repository →
+</a>
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2>📈 Currently Learning</h2>
+
+<ul>
+  <li>Java & Spring Boot</li>
+  <li>REST API development</li>
+  <li>JPA & Hibernate</li>
+  <li>SQL and database design</li>
+  <li>Docker</li>
+  <li>Software architecture and best practices</li>
+</ul>
+
+<br>
+
+<h2>📫 Connect with me</h2>
+
+<p>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/BerukenKun">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
