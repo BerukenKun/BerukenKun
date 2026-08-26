@@ -11,7 +11,7 @@
 <br>
 
 <h2>🛠️ Tech Stack</h2>
-<br>
+
 <table>
   <tr>
     <td valign="top" width="220">
@@ -20,15 +20,12 @@
         <li><h3>☕ Java</h3></li>
         <li><h3>🐍 Python</h3></li>
         <li><h3>🟨 JavaScript</h3></li>
-        <li><h3>🟣 C#</h3></li>
       </ul>
     </td>
     <td valign="top" width="220">
       <h3>⚙️ Backend</h3>
       <ul>
         <li>🌱 Spring Boot</li>
-        <li>🟢 Node.js</li>
-        <li>⚡ Express</li>
         <li>🔗 REST APIs</li>
         <li>🗄️ JPA / Hibernate</li>
       </ul>
@@ -36,20 +33,19 @@
     <td valign="top" width="220">
       <h3>🗄️ Databases</h3>
       <ul>
-        <li>🐬 MySQL</li>
-        <li>🐘 PostgreSQL</li>
-        <li>🍃 MongoDB</li>
-        <li>🔴 H2</li>
+        <li><h3>🐬 MySQL</h3></li>
+        <li><h3>🐘 PostgreSQL</h3></li>
+        <li><h3>🍃 MongoDB</h3></li>
       </ul>
     </td>
     <td valign="top" width="220">
       <h3>🔧 Tools</h3>
       <ul>
-        <li>🐙 Git / GitHub</li>
-        <li>🐳 Docker</li>
-        <li>📦 Maven</li>
-        <li>💡 IntelliJ IDEA</li>
-        <li>📝 Postman</li>
+        <li><h3>🐙 Git / GitHub</h3></li>
+        <li><h3>🐳 Docker</h3></li>
+        <li><h3>📦 Maven</h3></li>
+        <li><h3>💡 IntelliJ IDEA</h3></li>
+        <li><h3>📝 Postman</h3></li>
       </ul>
     </td>
   </tr>
