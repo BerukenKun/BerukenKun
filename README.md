@@ -48,7 +48,7 @@
 
     </td>
 
-    <td valign="top" width="30%">
+    <td valign="top" width="40%">
 
 ### 🔧 Tools
 
@@ -68,7 +68,7 @@
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="33%" valign="top">
 
 ### 👨‍🎓 Student Management API
 
