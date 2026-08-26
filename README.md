@@ -17,7 +17,7 @@
     <td valign="top" width="220">
       <h3>💻 Languages</h3>
       <ul>
-        <li><h4>☕ Java</h4></li>
+        <li><h3>☕ Java</h3></li>
         <li><h4>🐍 Python</h4></li>
         <li><h4>🟨 JavaScript</h4></li>
         <li><h4>🟣 C#</h4></li>
