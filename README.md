@@ -12,7 +12,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<table width="100%">
+<table width="150%">
   <tr>
     <td valign="top" width="30%" style="border-right: 1px solid #30363d;">
 
