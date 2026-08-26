@@ -17,9 +17,9 @@
     <td valign="top" width="220">
       <h3>💻 Languages</h3>
       <ul>
-        <li><h3 style="margin-bottom: 1px;">☕ Java</h3></li>
-        <li><h3 style="margin-bottom: 1px;">🐍 Python</h3></li>
-        <li><h3 style="margin-bottom: 1px;">🟨 JavaScript</h3></li>
+        <li><h3>☕ Java</h3></li>
+        <li><h3>🐍 Python</h3></li>
+        <li><h3>🟨 JavaScript</h3></li>
         <li><h3>🟣 C#</h3></li>
       </ul>
     </td>
